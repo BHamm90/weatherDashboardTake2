@@ -21,11 +21,11 @@
 
 <h2>Website Deployment</h2>
 
-<p> The current version of this website can be found here. <a href="https://bhamm90.github.io/dayPlanner/">(Day Planner)</a>
+<p> The current version of this website can be found here. <a href="https://bhamm90.github.io/weatherDashboardTake2/">(Day Planner)</a>
 
 <h2>Feedback</h2>
 
-<p> Please get ahold of me with any suggestions for features/items you believe should be added. Also feel free to let me know of any issues you may come across while using the page. You can reach me on <a href="https://stackoverflow.com/users/14324130/bhamm90">Stack Overflow</a> with any comments and concerns. For any issues and fixes you can file an issue at the <a href="https://github.com/BHamm90/dayPlanner/issues">Day Planner link </a> <-- so I can fix them as soon as possible. </p>
+<p> Please get ahold of me with any suggestions for features/items you believe should be added. Also feel free to let me know of any issues you may come across while using the page. You can reach me on <a href="https://stackoverflow.com/users/14324130/bhamm90">Stack Overflow</a> with any comments and concerns. For any issues and fixes you can file an issue at the <a href="https://github.com/BHamm90/weatherDashboardTake2/issues">Day Planner link </a> <-- so I can fix them as soon as possible. </p>
 
 <h3>Website Preview:</h3>
 
